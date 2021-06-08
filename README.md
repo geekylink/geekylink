@@ -4,6 +4,8 @@ Maybe someday you will find useful projects on this page, but today is not that 
 
 I travel a lot, I write code all around the world. Currently writing code for the 21st century, basically from just outside an Amish community, because I live a weird life. Most of my work is private, but I have uploaded some of my old projects including games and old game hacking website from 2008 (Essh, long time ago). Hope you enjoy. 
 
+If you liked this page, maybe you'll like more of me: ![LinkedIn](https://www.linkedin.com/in/james-danielson-33aba264/)
+
 <!--
 **geekylink/geekylink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
