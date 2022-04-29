@@ -2,7 +2,9 @@
 
 Maybe someday you will find useful projects on this page, but today is not that day.
 
-Currently writing code for the 21st century, basically from just outside an Amish community, because I live a weird life. I have a decent internet setup though. Most of my work is private, but I have uploaded some of my old projects including games and my really old game hacking website from 2008 (You will find most of the code from Gekinzuku here: https://github.com/gekinzuku). Hope you enjoy. 
+Currently writing code for the 21st century, basically from just outside an Amish community, because I live a weird life. I have a decent internet setup though. Most of my work is private, but I have uploaded some of my old projects including games and my really old game hacking website from 2008 (You will find most of the code from Gekinzuku here: https://github.com/gekinzuku). 
+
+Hope you enjoy. 
 
 <!--
 **geekylink/geekylink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
