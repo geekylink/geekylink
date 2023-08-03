@@ -1,9 +1,32 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
 
-I have uploaded some of my old projects including games and my really old game hacking website from 2008 (You will find most of the code from Gekinzuku here: https://github.com/gekinzuku). 
+🧑‍💻 About Me:
 
-Hope you enjoy. 
+I'm a seasoned developer with a passion for coding and exploring different corners of the world with experience living in various countries across several incredible continents. From coding just outside an Amish community, to writing software & teaching in the bustling cities of Asia, and across Europe and Latin America, my coding journey has taken me far and wide! 🌍 
 
+🚀 Quick facts about me:
+
+🛠️ I'm a polyglot programmer, proficient in multiple languages and paradigms having worked at both major corporations and small startups.
+
+🌏  Well-versed with and shaped by different work cultures and habits from studying, teaching, and developing abroad.
+
+👥 I readily share my knowledge, and am ready to learn from anyone down to take this ride with me.
+
+🔭 I always enjoy enriching myself with a variety of topics outside IT, as I believe it helps me broaden my skills and understanding. One of my major non-software projects is an aquaponics system I developed that can grow several hundred fish and provide me enough fresh greens to have have fresh lettuce every day even in the middle of the cold northern winters.
+
+✨ Personal Website: https://jamesdanielson.com/
+
+💬 Let's Connect:
+
+📫 LinkedIn: https://www.linkedin.com/in/james-danielson-33aba264/
+
+Feel free to explore, collaborate, or drop any thoughts or questions you might have.
+
+You can also find some of my old projects including games and my really old game modding website from 2008 here:
+
+🌟 https://github.com/gekinzuku
+
+Best wishes and happy coding! 👋
 <!--
 **geekylink/geekylink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
