@@ -10,9 +10,9 @@ I'm a seasoned developer with a passion for coding and exploring different corne
 
 🌏  Well-versed with and shaped by different work cultures and habits from studying, teaching, and developing abroad.
 
-👥 I readily share my knowledge, and am ready to learn from anyone down to take this ride with me.
-
 🔭 I always enjoy enriching myself with a variety of topics outside IT, as I believe it helps me broaden my skills and understanding. One of my major non-software projects is an aquaponics system I developed that can grow several hundred fish and provide me enough fresh greens to have have fresh lettuce every day even in the middle of the cold northern winters.
+
+👥 I readily share my knowledge, and am ready to learn from anyone down to take this ride with me.
 
 ✨ Personal Website: https://jamesdanielson.com/
 
