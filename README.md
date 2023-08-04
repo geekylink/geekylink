@@ -14,11 +14,11 @@ I'm a seasoned developer with a passion for coding and exploring different corne
 
 👥 I readily share my knowledge, and am ready to learn from anyone down to take this ride with me.
 
-✨ Personal Website: https://jamesdanielson.com/
-
 💬 Let's Connect:
 
 📫 LinkedIn: https://www.linkedin.com/in/james-danielson-33aba264/
+
+✨ Personal Website: https://jamesdanielson.com/
 
 Feel free to explore, collaborate, or drop any thoughts or questions you might have.
 
