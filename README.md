@@ -2,7 +2,7 @@
 
 🧑‍💻 About Me:
 
-I'm a seasoned developer with a passion for coding and exploring different corners of the world with experience living in various countries across several incredible continents. From coding just outside an Amish community, to writing software & teaching in the bustling cities of Asia, and across Europe and Latin America, my coding journey has taken me far and wide! 🌍 
+I'm a seasoned developer with a passion for coding and exploring and experiencing different corners of the world, my coding journey has taken me far and wide! 🌍 
 
 🚀 Quick facts about me:
 
